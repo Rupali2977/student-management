@@ -57,4 +57,5 @@ Input Validation Rules
 • Marks must follow standard email format  
 • Phone number must be exactly 10 digits  
 5.Authors:-
+
 1.Rupali Dnyaneshwar Sutar
