@@ -56,7 +56,9 @@ Input Validation Rules
 • Name and course cannot be empty    
 • Marks must follow standard email format  
 • Phone number must be exactly 10 digits  
-Authors:-
-1. Rupali Dnyaneshwar Sutar
+5.Authors:-
+1.Rupali Dnyaneshwar Sutar
+   
+
      
 
