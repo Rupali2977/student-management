@@ -54,11 +54,9 @@ Outpu:-
    Exit    
 Input Validation Rules  
 • Name and course cannot be empty    
-• Marks must be between 0 and 100  
-• Email must follow standard email format  
+• Marks must follow standard email format  
 • Phone number must be exactly 10 digits  
-Authors:-  
-1.Vivek Keshav Havale  
-2.Aniket Madanlal Sutar  
-3.Viresh Siddharam Nimbargi  
+Authors:-
+1. Rupali Dnyaneshwar Sutar
+     
 
